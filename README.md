@@ -2,6 +2,8 @@
 #practic 30,04,21
 // Realizar un programa que muestre cada 1 segundo el tiempo transcurrido desde que se encendió el arduino. (este si puede usar la función delay ())
 // codigo 
+
+
 unsigned long tiempo1 = 0;
 unsigned long tiempo2 = 0;
 unsigned long tiempoSegundos = 0;
